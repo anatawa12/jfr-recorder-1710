@@ -5,6 +5,7 @@ import cpw.mods.fml.relauncher.IFMLLoadingPlugin;
 import java.util.Map;
 
 @SuppressWarnings("unused")
+@IFMLLoadingPlugin.SortingIndex(1100)
 public class JFRRecorderFMLLoadingPlugin implements IFMLLoadingPlugin {
     @Override
     public String[] getASMTransformerClass() {
