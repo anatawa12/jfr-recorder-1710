@@ -1,16 +1,16 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "jfr-recorder",
+    "name": "JFR Recorder",
+    "description": "run JFR by command on minecraft!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["anatawa12"],
+    "credits": "(C) anatawa12 and other contributers 2020",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
