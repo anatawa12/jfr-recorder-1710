@@ -78,5 +78,5 @@ public class JFRRecorder {
 
     public static final String MODID = "jfr-recorder";
 
-    public static SimpleNetworkWrapper NETWORK = NetworkRegistry.INSTANCE.newSimpleChannel("AegisSystemMod");
+    public static SimpleNetworkWrapper NETWORK = NetworkRegistry.INSTANCE.newSimpleChannel(MODID);
 }
